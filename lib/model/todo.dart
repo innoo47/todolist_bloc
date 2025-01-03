@@ -1,4 +1,6 @@
 class Todo {
+  /// Model
+
   int? userId;
   int? id;
   String? title;
